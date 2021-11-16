@@ -10,6 +10,6 @@ package scientificcalculator;
  * @author stefa
  */
 public class Prova {
-    public int benni=2;
+    public int benni=23;
     
 }
